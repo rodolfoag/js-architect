@@ -1,0 +1,31 @@
+{
+  "name": "todos",
+  "version": "0.0.1",
+  "author": "Rodolfo Goncalves <rodolfoag@gmail.com>",
+  "description": "todo app",
+  "dependencies": {
+    "backbone": "1.1.2",
+    "underscore": "1.6.0"
+  },
+  "devDependencies": {
+    "browserify": "^4.1.9",
+    "gulp": "^3.8.0",
+    "gulp-autoprefixer": "0.0.7",
+    "gulp-cache": "^0.1.11",
+    "gulp-clean": "^0.3.0",
+    "gulp-concat": "^2.2.0",
+    "gulp-imagemin": "^0.6.0",
+    "gulp-jshint": "^1.6.2",
+    "gulp-livereload": "^2.1.0",
+    "gulp-minify-css": "^0.3.4",
+    "gulp-notify": "^1.3.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-ruby-sass": "^0.5.0",
+    "gulp-size": "^0.4.0",
+    "gulp-streamify": "0.0.5",
+    "gulp-uglify": "^0.3.0",
+    "merge-stream": "^0.1.1",
+    "vinyl-source-stream": "^0.1.1",
+    "watchify": "^0.10.2"
+  }
+}
